@@ -1,0 +1,21 @@
+.team-container {
+  display: flex;
+  flex-direction: row;
+
+  background-color: #ffffff33;
+  width: 40%;
+  margin: 20px;
+  border-radius: 5%;
+  padding: 20px;
+}
+.team-logo {
+  height: 70px;
+  width: 70px;
+}
+.team-name {
+  color: white;
+  font-weight: bold;
+}
+* {
+  font-family: 'Bree Serif';
+}
